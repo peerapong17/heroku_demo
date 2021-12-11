@@ -1,1 +1,1 @@
-webapp: heroku_demo.wsgi --log-file -
+web: heroku_demo.wsgi --log-file -
